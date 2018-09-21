@@ -1,0 +1,9 @@
+{
+  "name": "My Github Favorites",
+  "description": "app",
+  "version": "1.0.0",
+  "engines": {
+    "node": "10.9.0",
+    "npm": "6.2.0"
+  }
+}
